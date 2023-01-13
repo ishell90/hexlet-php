@@ -2,7 +2,8 @@
     "name": "ishell90/hexlet-php",
     "description": "Тестовый проект для компcomposer",
     "require": {
-        "monolog/monolog": ">=2.1"
+        "monolog/monolog": ">=2.1",
+        "tightenco/collect": "^9.33"
     },
     "autoload": {
         "psr-4": {
