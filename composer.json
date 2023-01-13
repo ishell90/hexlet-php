@@ -1,0 +1,18 @@
+{
+    "name": "ishell90/hexlet-php",
+    "description": "Тестовый проект для компcomposer",
+    "require": {
+        "monolog/monolog": ">=2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ishell90\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Илья Шалаев",
+            "email": "alex.280200@mail.ru"
+        }
+    ]
+}
