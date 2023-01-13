@@ -8,7 +8,8 @@
     "autoload": {
         "psr-4": {
             "Ishell90\\HexletPhp\\": "src/"
-        }
+        },
+       "files": ["src/Runner.php"]
     },
     "authors": [
         {
